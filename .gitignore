@@ -1,0 +1,17 @@
+
+# Node.js
+node_modules/
+npm-debug.log
+.DS_Store
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Editor-specific
+*.swp
+*.bak
+*~
+
